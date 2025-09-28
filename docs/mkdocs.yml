@@ -4,3 +4,5 @@ nav:
   - Get Started: getstarted.md
   - Use Custom JSON: usemyjson.md
 theme: readthedocs
+markdown_extensions:
+  - admonition

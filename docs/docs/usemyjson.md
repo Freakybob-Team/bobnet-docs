@@ -23,5 +23,6 @@ You can set it up like that, and you'll have a compatible JSON.
 You can deploy it to the internet in any way you'd like, but we use [GitHub Pages](https://docs.github.com/en/pages/quickstart).
 
 Last, you can use it on supported clients. For our client, you can click "use custom JSON source (for experienced users)" and put in your URL.
-> [!WARNING]
-> Custom JSON in our web client has not been tested yet. If you experience problems, [report an issue](https://github.com/Freakybob-Team/bobnet/issues/new).
+!!! Notice
+
+Custom JSON in our web client has not been tested yet. If you experience problems, [report an issue](https://github.com/Freakybob-Team/bobnet/issues/new).
