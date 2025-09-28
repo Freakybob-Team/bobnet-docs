@@ -14,6 +14,8 @@ plugins:
   - badges
   - search
   - git-authors
+  - git-revision-date-localized
+  - live-edit
 site_description: BobNet Docs RSS
 site_name: BobNet Documentation
 site_url: https://Freakybob-Team.github.io/bobnet-docs/
