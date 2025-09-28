@@ -9,3 +9,11 @@ nav:
 theme: swan
 markdown_extensions:
   - admonition
+plugins:
+  - rss
+  - badges
+  - search
+  - git-authors
+site_description: BobNet Docs RSS
+site_name: BobNet Documentation
+site_url: https://Freakybob-Team.github.io/bobnet-docs/
