@@ -1,0 +1,6 @@
+site_name: BobNet Documentation
+nav:
+  - Home: index.md
+  - Get Started: getstarted.md
+  - Use Custom JSON: usemyjson.md
+theme: readthedocs
