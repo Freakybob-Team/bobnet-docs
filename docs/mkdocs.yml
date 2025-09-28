@@ -3,6 +3,7 @@ nav:
   - Home: index.md
   - Get Started: getstarted.md
   - Use Custom JSON: usemyjson.md
+  - Use Check: usecheck.md
 theme: readthedocs
 markdown_extensions:
   - admonition
