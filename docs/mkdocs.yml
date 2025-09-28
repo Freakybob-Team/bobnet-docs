@@ -6,6 +6,6 @@ nav:
   - Use Check: usecheck.md
   - BobNet on GitHub: https://github.com/Freakybob-Team/bobnet
   - BobNet Docs on GitHub: https://github.com/Freakybob-Team/bobnet-docs
-theme: readthedocs
+theme: swan
 markdown_extensions:
   - admonition
